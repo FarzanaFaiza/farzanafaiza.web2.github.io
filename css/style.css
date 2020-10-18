@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    header{
+    height: 100px;
+    overflow: hidden;
+  
+    }
+
+    .Logo
+    {
+        width: 30%; 
+        background-color: white; 
+        height: 100%;
+        float: left;
+       
+
+    }
+    .Logo h2{
+        padding-top: 25px;
+     text-align: center;
+     color: #28397E; 
+
+    }
+    .Banner 
+    {
+        width: 70%; 
+        background-color: #28397E; 
+        height: 100%;
+        float: right; 
+
+    }
+    .Banner h2{ 
+        padding-top: 25px;
+     text-align: center;
+     color: white; 
+    }
+
+
+    .left{
+        height: 500px;
+        width: 25%; 
+       background-color:#F1562A;
+       float: left;
+    }
+    .left h2{ 
+        padding-top: 200px;
+     text-align: center;
+     color: white;  
+    }
+
+    .right h2{ 
+        padding-top: 200px;
+     text-align: center;
+     color: white;  
+    }
+
+    .right{
+
+    height: 500px;
+    width: 25%; 
+    background-color:#F1562A;
+    float: left; 
+    }
+
+    .center{
+        height: 500px;
+        width: 50%; 
+       background-color: yellow; 
+       float: left;
+
+    }
+
+
+    .center-top{
+        height: 30%;
+        background-color:#C6C6C6;
+
+    }
+    .center-top h2{ 
+        padding-top: 50px;
+     text-align: center;
+     color: gray;
+    }
+
+    .center-middle{
+        height: 40%; 
+        background-color: #E2E2E2; 
+
+
+    }
+    .center-middle h2{ 
+        padding-top: 70px;
+     text-align: center;
+     color: gray; 
+    }
+
+    .center-bottom{
+        height: 30%; 
+        background-color:#C6C6C6;
+
+    }
+    .center-bottom h2{ 
+        padding-top: 50px;
+     text-align: center;
+     color: gray; 
+    }
+
+.footer{
+    padding: 500px;
+    background-color: teal;
+}
+       
+  
